@@ -13,7 +13,7 @@ export default function ButtonAppBar() {
       <Navbar />
       <Box sx={{ flexGrow: 1 }}>
           <div className="container p-2 ">
-              this is container
+              this is home page
           </div>
       </Box>
     </>
